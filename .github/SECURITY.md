@@ -5,7 +5,7 @@ If you believe you have found a security vulnerability in this project, please r
 ### Reporting a vulnerability
 
 - **Do not open a public issue** for security-related reports.
-- Instead, contact the project maintainer(s) directly using the contact information available on the repository owner’s GitHub profile.
+- Instead, contact the project maintainer(s) directly using the contact information available on the repository owner's GitHub profile.
 - Include as much detail as possible to help reproduce and assess the issue (affected versions, impact, reproduction steps, etc.).
 
 The maintainer(s) will review the report and respond as soon as reasonably possible.

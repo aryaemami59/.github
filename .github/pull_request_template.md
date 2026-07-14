@@ -1,6 +1,6 @@
 ## Changes
 
-<!-- List the main changes made in this PR. -->
+<!-- Describe the changes proposed in this pull request. -->
 
 <!-- - [X] Change 1 -->
 
@@ -8,7 +8,7 @@
 
 ## Linked issues
 
-<!-- Link any related issues (e.g. `Fixes #123`). -->
+<!-- Reference any related issues (e.g. `Fixes #123`). -->
 
 <!-- - [X] Resolves #<issue_number> -->
 

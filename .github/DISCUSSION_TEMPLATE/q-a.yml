@@ -1,0 +1,28 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for asking a question! Please search existing discussions and issues first - your question may already be answered.
+
+        If you have found a security vulnerability, do **not** post it here. Follow the security policy instead.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What are you trying to do, and what are you stuck on?
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Steps you have already taken, and what happened. Include exact error messages if there were any.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Anything else that might help - relevant versions, configuration, or a link to a minimal reproduction.
+    validations:
+      required: false

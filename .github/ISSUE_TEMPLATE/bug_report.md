@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Report a reproducible bug or regression
-title: ''
+title: ""
 labels: bug
-assignees: ''
+assignees: ""
 ---
 
 ## Actual behavior
