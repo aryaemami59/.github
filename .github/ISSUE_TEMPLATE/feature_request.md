@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea or improvement
-title: ''
+title: ""
 labels: enhancement
-assignees: ''
+assignees: ""
 ---
 
 ## Problem
@@ -20,7 +20,7 @@ assignees: ''
 
 ## Alternatives considered
 
-<!-- Optional: alternative approaches or workarounds you’ve considered. -->
+<!-- Optional: alternative approaches or workarounds you've considered. -->
 
 ---
 
